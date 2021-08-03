@@ -1,6 +1,6 @@
 backports.entry-points-selectable==1.1.0
 backports.ssl-match-hostname==3.5.0.1
-blivet==0.61.15.76
+# blivet==0.61.15.76
 Brlapi==0.6.0
 cffi==1.6.0
 chardet==2.2.1
