@@ -1,1 +1,1 @@
-release: python develop.py
+release: python dictionary.py
